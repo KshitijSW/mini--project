@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    background-image: url(https://th.bing.com/th/id/R.ed1711e57d7ffd933145c33e3af66bb3?rik=vvYa5cF04JSD5Q&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2f3%2f8%2f358806.jpg&ehk=RvK56BpkUYKwG%2fg%2bd9VAQ6YUH60KkMMmZxGfk80%2b6zA%3d&risl=&pid=ImgRaw&r=0);
+    background-size: 100%;
+}
+div{
+    color: orange;
+    text-align: center;
+    margin-top: 200px;
+}
+h1{
+    text-align: center;
+    color: red;
+}

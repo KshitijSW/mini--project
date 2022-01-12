@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin-top: 250px;
+    color: red;
+    background-color: royalblue;
+}
